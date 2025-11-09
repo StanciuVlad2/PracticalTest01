@@ -1,1 +1,2 @@
-# PracticalTest01
+# Stanciu Vlad-Mihai
+# 341 C5
